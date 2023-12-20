@@ -43,12 +43,12 @@ Our project addresses a common challenge faced by café owners: efficiently disc
 
 ## Fork Repository
 If you want to bring your unique touch to our project, forking is your magical gateway. By forking repository, you're creating a personal space on your personal GitHub account to experient, enhance, and mold the project to fit your vision without affecting the original project. If you want to fork this repository, you can click on the "Fork" button at the top right corner of this repository's page. </br>
-![image](https://user-images.githubusercontent.com/85149518/120605441-405eb400-c478-11eb-9304-4dcd1fa61a71.png) </br>
+![image](https://github.com/CH2-PS075/TalentHub-Mitra-Mobile/blob/main/Fork.jpg) </br>
 The forking repository allows you to modify this project without affecting the original project.
 
 ## Clone Repository
 Clone repository is used to explore and contribute to the repository. By cloning, you gain the power to dissect, refine, and enhance the code while preserving the purity of the original project. The first step that you need to do to clone a repository is click the "Code" button and copy HTTPS link. <br/>
-![Image Copy HTTPS](https://camo.githubusercontent.com/1c0cf8056422ff414eee75142b213c5970e085c2e33c0a6d69dc2639d98216f1/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636f70792d746f2d636c6970626f6172642e706e67)
+![Image Copy HTTPS](https://github.com/CH2-PS075/TalentHub-Mitra-Mobile/blob/main/Clone.jpg)
 
 For clone user apps  
 ```
@@ -57,24 +57,6 @@ git clone --branch main https://github.com/CH2-PS075/TalentHub-Mobile.git
 For clone talent apps  
 ```
 git clone --branch main https://github.com/CH2-PS075/TalentHub-Mobile.git
-```
-
-### Next Step
-1. Work on the project locally in your own computer
-2. **Create new Branch** based on the feature you make using " git checkout -b <new_branch> " <br/>
-Example :
-```
-git checkout -b layout-member
-```
-3. **Commit** changes to your branch. Don't forget to give proper commit message so other people can understand it <br/>
-Example:
-```
-git commit -m "add layout-member"
-```
-4. **Push** to your branch <br/>
-Example:
-```
-git push origin layout-member
 ```
 
 

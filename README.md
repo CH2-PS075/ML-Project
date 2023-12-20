@@ -1,12 +1,12 @@
 ![Logo](https://github.com/CH2-PS075/ML-Project/blob/main/Mock%20up.png)
-
+## Capstone Team ID: CH2-PS075
 # TalentHub: Talent Finder Apps
 
 TalentHub is an application used to help local music talents promote themselves. Hence, they get job offers and help talent seekers, especially music talent seekers, to find singers according to their wishes. Both in terms of price, genre, location, and type of talent.
 
 ***
 
-# Team Members
+## Team Members
 
 | Name        | Bangkit ID            | Roles | Colleges |
 | :--------------- | :-------------- |:------| :------|

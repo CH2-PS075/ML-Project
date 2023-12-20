@@ -39,18 +39,26 @@ Our project addresses a common challenge faced by café owners: efficiently disc
 | Cloud Computing    | Universitas Udayana | Universitas Udayana |   Repository |
 | Android Development| Universitas Udayana | Universitas Udayana |  Repository |
 
+## Requirement 
+
 ## Fork Repository
-In order to duplicate our repository to become your repository on your own github account, you need to **fork** this repository
+To create a copy of our repository on your personal GitHub account, you should fork the repository. The act of forking enables you to make modifications to this project independently without impacting the original project.
 ![image](https://user-images.githubusercontent.com/85149518/120605441-405eb400-c478-11eb-9304-4dcd1fa61a71.png) </br>
-Forking repository allows you to modificate this project without affecting the original project.
+The forking repository allows you to modify this project without affecting the original project.
 
 ## Clone Repository
 Download code from branch "main" **OR** 
 2. Clone Repository. Click on dropdown Code and **copy** HTTPS link
 2. Clone Repository. Click on dropdown Code and **copy** HTTPS link <br/>
 ![Image Copy HTTPS](https://camo.githubusercontent.com/1c0cf8056422ff414eee75142b213c5970e085c2e33c0a6d69dc2639d98216f1/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636f70792d746f2d636c6970626f6172642e706e67)
+
+For clone user apps  
 ```
-git clone https://github.com/aplawtech/aplod.git
+git clone --branch main https://github.com/CH2-PS075/TalentHub-Mobile.git
+```
+For clone talent apps  
+```
+git clone --branch main https://github.com/CH2-PS075/TalentHub-Mobile.git
 ```
 
 ### Next Step

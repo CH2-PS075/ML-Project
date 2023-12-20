@@ -6,7 +6,7 @@ TalentHub is an application used to help local music talents promote themselves.
 
 ***
 
-## Team Members
+## Our Team Members
 
 | Name        | Bangkit ID            | Roles | Colleges |
 | :--------------- | :-------------- |:------| :------|
@@ -17,4 +17,13 @@ TalentHub is an application used to help local music talents promote themselves.
 | Epopras Priyo Setia                  | `A006BSY2170` | Mobile Development | Universitas Brawijaya |
 | Wildan Luqmanul Hakim                | `C152BSY3488` | Cloud Computing | Sekolah Tinggi Teknologi Bandung |
 | Meldodi Samuel Sianturi              | `C300BSY3066` | Cloud Computing | Universitas Pendidikan Nasional  |
+
+## Tech Stack
+
+| Learning Path      | Tech         | Repository |
+| :---------------   | :-------------- |:------|
+| Machine Learning   | Universitas Udayana | [Link ke Repositori Saya](https://github.com/CH2-PS075/CC-API) |
+| Cloud Computing    | Universitas Udayana | Universitas Udayana |
+| Android Development| Universitas Udayana | Universitas Udayana |
+
 

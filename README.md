@@ -42,7 +42,7 @@ Our project addresses a common challenge faced by café owners: efficiently disc
 ## Requirement 
 
 ## Fork Repository
-To create a copy of our repository on your personal GitHub account, you should fork the repository. The act of forking enables you to make modifications to this project independently without impacting the original project.
+If you want to bring your unique touch to our project, forking is your magical gateway. By forking repository, you're creating a personal space on your personal GitHub account to experient, enhance, and mold the project to fit your vision without affecting the original project. If you want to fork this repository, you can click on the "Fork" button at the top right corner of this repository's page.
 ![image](https://user-images.githubusercontent.com/85149518/120605441-405eb400-c478-11eb-9304-4dcd1fa61a71.png) </br>
 The forking repository allows you to modify this project without affecting the original project.
 

@@ -4,7 +4,20 @@
 
 TalentHub is an application used to help local music talents promote themselves. Hence, they get job offers and help talent seekers, especially music talent seekers, to find singers according to their wishes. Both in terms of price, genre, location, and type of talent.
 
-***
+Our project addresses a common challenge faced by café owners: efficiently discovering and recruiting talent for live music in their cafes. It also helps talents to get a job. The advantages of our capstone project are that talent seekers can simplify talent discovery and recruitment for various types like live music events in the café. We provide them with recommendation filtering based on what they need. Both in terms of price, genre, location, and type of talent. This application also helps local music talents to promote themselves, so they get job offers. This application allows talents to showcase their work through portfolios, which can help them promote themselves with an informative overview to potential clients. 
+
+## Key Features
+- For User Apps
+    - Recommendation Talent
+- For Talent Apps
+     - Register with Automatic Validation 
+
+## Additional Features
+- For User Apps
+    - Authentication	 
+    - Chatbot
+    - Favorite 
+    - Profile 
 
 ## Our Team Members
 
@@ -20,10 +33,10 @@ TalentHub is an application used to help local music talents promote themselves.
 
 ## Tech Stack
 
-| Learning Path      | Tech         | Repository |
-| :---------------   | :-------------- |:------|
-| Machine Learning   | Universitas Udayana | [Link ke Repositori Saya](https://github.com/CH2-PS075/CC-API) |
-| Cloud Computing    | Universitas Udayana | Universitas Udayana |
-| Android Development| Universitas Udayana | Universitas Udayana |
+| Learning Path      | Tech         | Repository for User Apps|   Repository for Talent Apps |
+| :---------------   | :-------------- |:------| :------|
+| Machine Learning   | Universitas Udayana | [Link ke Repositori Saya](https://github.com/CH2-PS075/CC-API) |  Repository |
+| Cloud Computing    | Universitas Udayana | Universitas Udayana |   Repository |
+| Android Development| Universitas Udayana | Universitas Udayana |  Repository |
 
 
